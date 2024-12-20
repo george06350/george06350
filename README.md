@@ -22,13 +22,13 @@
 
 这里是我最近的一些项目：
 
-- [项目 1](https://github.com/george06350/Project1): 项目1的简要描述
+- [The SMP](https://github.com/george06350/Project1): 项目1的简要描述
 - [项目 2](https://github.com/george06350/Project2): 项目2的简要描述
 - [项目 3](https://github.com/george06350/Project3): 项目3的简要描述
 
 ## 联系我
 
-- [LinkedIn](https://www.linkedin.com/in/george06350)
+- [Discord](https://discord.com/)
 - [Twitter](https://twitter.com/george06350)
 
 感谢你的访问！😊
